@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpeakOut</string>
+    <string name="in_android_switch_is_a_two_state_toggle">In Android, Switch is a two-state toggle</string>
+    <string name="about">
+        This is a App that converts text to speech.
+        It allows both direct typed text to be converted and also any text file.\n\n
+
+        Converting Files to speech allows the user to listen to the content of his\her file whenever required.
+        They may listen its content without seeing the screen.\n\n
+
+        Converting Text to speech directly allows user who may be in
+        a condition where they cannot speak (Soar throat,Dumb etc) to voice his/her opinions.
+    </string>
+</resources>
